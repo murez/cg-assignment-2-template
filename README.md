@@ -7,7 +7,7 @@ Student ID:
 
 ## Deadline
 
-**October 7, 2022, 22:00 UTC+8**
+**October 25, 2022, 22:00 UTC+8**
 
 ## Statement
 
